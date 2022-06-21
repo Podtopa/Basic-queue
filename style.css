@@ -1,0 +1,16 @@
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.queue__content{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+
+}
+
+body {
+    font-family: monospace;
+    font-size: 18px;
+}
